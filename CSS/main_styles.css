@@ -1,3 +1,45 @@
 @charset "UTF-8";
 /* CSS Document */
 
+body {
+	margin: 0;
+}
+
+#header {
+	background-color:#000000;
+	height: 400px;
+}
+
+#if {
+	width: 600px;
+	margin-left:-50px;
+	margin-top:-20px;
+	
+}
+h2 {
+	color:#FFFFFF;
+	margin-left: 300px;
+	margin-top: -500px;
+	width: 320px;
+	
+}
+
+#Title {
+	color:#FF0004;
+}
+
+hr {
+	margin-top:-28px;
+	color: #000000;
+}
+
+#website {
+	text-align:center;
+	color:#7E7E7E;
+	font-size: 30px;
+	margin-top: 10px;
+}
+
+#adobe {
+	margin-left: 400px;}
+	
