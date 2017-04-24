@@ -11,26 +11,35 @@ body {
 }
 
 #if {
-	width: 600px;
-	margin-left:-50px;
-	margin-top:-20px;
+	height:230px;
+	margin-left:10px;
+	margin-top:175px;
+	float: left;
+
 	
 }
 h2 {
 	color:#FFFFFF;
-	margin-left: 300px;
-	margin-top: -500px;
-	width: 320px;
+	margin-left: 200px;
+	padding-top: 300px;
+	width: 300px;
+	font-weight:200;
 	
+	
+
 }
 
 #Title {
 	color:#FF0004;
+	font-weight:200;
+	margin-left: 10px;
 }
 
 hr {
 	margin-top:-28px;
 	color: #000000;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 #website {
@@ -41,5 +50,22 @@ hr {
 }
 
 #adobe {
-	margin-left: 400px;}
-	
+	width: 150px;
+	float:right;
+	margin-right:10px;
+	margin-top: -95px;
+	}
+
+#text {
+	width: 330px;
+	margin-left: 10px;
+}
+
+h3 {
+	font-size: 12;
+	margin-left: 10px;
+	line-height: 0px;
+}	
+ul {
+	margin-left: -10px;
+}
